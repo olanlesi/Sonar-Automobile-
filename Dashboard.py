@@ -15,7 +15,7 @@ run()
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.write("""
 --------
-This dashboard provides analysis on top 5 cars and model to determine customers' prefence and help Sonar Automobile make inform decision 
+This dashboard provides analysis on top 5 cars and model to determine customers' prefrence and help Sonar Automobile make inform decision 
 """)
 
 st.write("---")
